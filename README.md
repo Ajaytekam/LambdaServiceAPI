@@ -410,7 +410,7 @@ curl --location --request DELETE 'https://h6yfb6fdb8.execute-api.us-east-1.amazo
     
 ## 5. Deleting Everything : 
 
-* First Delete the API Gatewaygg
+* First Delete the API Gateway
 * Then Delete the Lamda Function
 * Delete the DynamoDB table 
 * Delete the boto3user from IAM console
